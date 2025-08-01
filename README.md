@@ -1,4 +1,3 @@
-<img width="335" height="730" alt="image" src="https://github.com/user-attachments/assets/065b03bb-e300-41de-b5f3-111dc448c9fb" /># Ecoharmony_App
 Implementación mobile para dar soporte a la compra de entradas de un Eco Parque, con integración con MercadoPago.
 Trabajo realizado para la materia Ingeniería en Calidad de Software de la carrera Ingeniería en Sistemas de Información
 
@@ -16,3 +15,5 @@ Trabajo realizado para la materia Ingeniería en Calidad de Software de la carre
 <img width="329" height="735" alt="image" src="https://github.com/user-attachments/assets/dd9d1820-8391-41f6-926f-229e271befd2" />
 <img width="335" height="730" alt="image" src="https://github.com/user-attachments/assets/5dc1a8cf-4e69-4310-aa5f-5dbac42567d0" />
 <img width="335" height="729" alt="image" src="https://github.com/user-attachments/assets/ee0e4c7f-a175-4f9b-a57f-4d2c649bc442" />
+<img width="335" height="730" alt="image" src="https://github.com/user-attachments/assets/065b03bb-e300-41de-b5f3-111dc448c9fb" /># Ecoharmony_App
+
