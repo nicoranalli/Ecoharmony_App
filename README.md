@@ -8,4 +8,4 @@ Trabajo realizado para la materia Ingeniería en Calidad de Software de la carre
 - **Backend RESTful API** (Node.js, Django o similar) para la lógica de negocio y gestión de datos.  
 - **Bases de datos** (relacionales o NoSQL) para almacenar usuarios, pedidos, cursos y eventos.  
 - **Integración con pasarelas de pago** y procesamiento de órdenes.  
-- Consideraciones de **seguridad y privacidad**, ya que no se recolectan ni comparten datos de usuario sin consentimiento, con cifrado en tránsito. :contentReference[oaicite:5]{index=5}  
+
