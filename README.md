@@ -4,8 +4,8 @@ Trabajo realizado para la materia Ingeniería en Calidad de Software de la carre
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Flutter / React Native** (o tecnología híbrida) para desarrollo móvil multiplataforma (iOS y Android).  
-- **Backend RESTful API** (Node.js, Django o similar) para la lógica de negocio y gestión de datos.  
-- **Bases de datos** (relacionales o NoSQL) para almacenar usuarios, pedidos, cursos y eventos.  
+- **React Native** para desarrollo móvil multiplataforma (iOS y Android).  
+- **Backend RESTful API** (Node y Typescript) para la lógica de negocio y gestión de datos.  
+- **Bases de datos** Para este trabajo no utilizamos un motor de base de datos, manejamos los datos con un mock data.  
 - **Integración con pasarelas de pago** y procesamiento de órdenes.  
 
